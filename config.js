@@ -1,5 +1,4 @@
 
-export const ROOM = "buoi-1";
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 const analytics = getAnalytics(app);
